@@ -2,6 +2,8 @@
 
 A simple HTML recipe website created as part of The Odin Project curriculum. This project focuses on using basic HTML to structure a website where users can explore various recipes. It demonstrates foundational web development skills and is part of the full-stack development path.
 
+[**Click Here To Access The Website**](https://reese949.github.io/odin-recipes/)
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Technologies Used](#technologies-used)
